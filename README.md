@@ -36,9 +36,8 @@ The user interface is created with Streamlit, providing a simple and intuitive c
 
 1. **Clone the repository:**
    
-   Is link par click karke repository download karein: [https://github.com/Kartik-0001-Saini/E-Commerce-AI-Agent](https://github.com/Kartik-0001-Saini/E-Commerce-AI-Agent)
+   You can download the source code from the GitHub Repository or clone it using the terminal: [https://github.com/Kartik-0001-Saini/E-Commerce-AI-Agent](https://github.com/Kartik-0001-Saini/E-Commerce-AI-Agent)
 
-   Ya terminal mein ye command chalayein:
    ```bash
    git clone https://github.com/Kartik-0001-Saini/E-Commerce-AI-Agent.git
    cd E-Commerce-AI-Agent
