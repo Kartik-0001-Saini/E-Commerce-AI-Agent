@@ -36,7 +36,7 @@ The user interface is created with Streamlit, providing a simple and intuitive c
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Kartik-0001-Saini/E-Commerce-AI-Agent
+    git clone [https://github.com/Kartik-0001-Saini/E-Commerce-AI-Agent](https://github.com/Kartik-0001-Saini/E-Commerce-AI-Agent)
     cd Agentic_AI.git
     ```
 
